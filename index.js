@@ -1,3 +1,7 @@
+/**
+ * Has been created by Rizky Arif Nur Choir
+ * if you gonna use this code, please don't remove this line
+ */
 const autoPlayLoop = function () {
   const instance = window.Runner.instance_;
   // always adjust the jump speed based on the current frame speed
